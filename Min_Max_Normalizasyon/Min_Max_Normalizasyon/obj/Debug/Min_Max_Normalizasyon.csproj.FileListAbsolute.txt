@@ -1,0 +1,9 @@
+C:\Users\Bilal\Desktop\C# Console Dersleri\Min_Max_Normalizasyon\Min_Max_Normalizasyon\bin\Debug\Min_Max_Normalizasyon.exe.config
+C:\Users\Bilal\Desktop\C# Console Dersleri\Min_Max_Normalizasyon\Min_Max_Normalizasyon\bin\Debug\Min_Max_Normalizasyon.exe
+C:\Users\Bilal\Desktop\C# Console Dersleri\Min_Max_Normalizasyon\Min_Max_Normalizasyon\bin\Debug\Min_Max_Normalizasyon.pdb
+C:\Users\Bilal\Desktop\C# Console Dersleri\Min_Max_Normalizasyon\Min_Max_Normalizasyon\obj\Debug\Min_Max_Normalizasyon.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\C# Console Dersleri\Min_Max_Normalizasyon\Min_Max_Normalizasyon\obj\Debug\Min_Max_Normalizasyon.Form1.resources
+C:\Users\Bilal\Desktop\C# Console Dersleri\Min_Max_Normalizasyon\Min_Max_Normalizasyon\obj\Debug\Min_Max_Normalizasyon.Properties.Resources.resources
+C:\Users\Bilal\Desktop\C# Console Dersleri\Min_Max_Normalizasyon\Min_Max_Normalizasyon\obj\Debug\Min_Max_Normalizasyon.csproj.GenerateResource.Cache
+C:\Users\Bilal\Desktop\C# Console Dersleri\Min_Max_Normalizasyon\Min_Max_Normalizasyon\obj\Debug\Min_Max_Normalizasyon.exe
+C:\Users\Bilal\Desktop\C# Console Dersleri\Min_Max_Normalizasyon\Min_Max_Normalizasyon\obj\Debug\Min_Max_Normalizasyon.pdb
